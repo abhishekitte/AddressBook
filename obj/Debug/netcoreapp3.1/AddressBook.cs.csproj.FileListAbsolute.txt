@@ -1,0 +1,5 @@
+C:\Users\pihu\source\repos\AddressBook.cs\AddressBook.cs\obj\Debug\netcoreapp3.1\AddressBook.cs.csproj.AssemblyReference.cache
+C:\Users\pihu\source\repos\AddressBook.cs\AddressBook.cs\obj\Debug\netcoreapp3.1\AddressBook.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pihu\source\repos\AddressBook.cs\AddressBook.cs\obj\Debug\netcoreapp3.1\AddressBook.cs.AssemblyInfoInputs.cache
+C:\Users\pihu\source\repos\AddressBook.cs\AddressBook.cs\obj\Debug\netcoreapp3.1\AddressBook.cs.AssemblyInfo.cs
+C:\Users\pihu\source\repos\AddressBook.cs\AddressBook.cs\obj\Debug\netcoreapp3.1\AddressBook.cs.csproj.CoreCompileInputs.cache
